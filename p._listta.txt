@@ -1,0 +1,596 @@
+#EXTM3U
+#EXTINF:-1, Hispantv 
+rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh
+#EXTINF:-1,  Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1, Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1, Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1, First Music
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:-1, Sony
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2501
+#EXTINF:-1, Warner Chanel 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2499
+#EXTINF:-1, Fx
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F431
+#EXTINF:-1, Axn
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2493
+#EXTINF:-1, Comedy Central 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1037
+#EXTINF:-1, Fox Hd
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3947
+#EXTINF:-1, E¡	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F427
+#EXTINF:-1, Mundo Fox	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F429
+#EXTINF:-1, Investigation Discovery ID	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F455
+#EXTINF:-1, TNT Series	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F331
+#EXTINF:-1, Tbs	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F333
+#EXTINF:-1, Tv Novelas	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1461
+#EXTINF:-1, Cbeebies	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1029
+#EXTINF:-1, Cartoon Network	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F421
+#EXTINF:-1, Boomerang	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2507
+#EXTINF:-1, Tooncast	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F443
+#EXTINF:-1, Baby Tv	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F317
+#EXTINF:-1, Nat Geo Wild Hd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F254
+#EXTINF:-1, Discovery Channel	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3531
+#EXTINF:-1, Home & Health	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F252
+#EXTINF:-1, National Geographic	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F395
+#EXTINF:-1, Lifetime	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F423
+#EXTINF:-1, TLC	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F327
+#EXTINF:-1, Hbo 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F385
+#EXTINF:-1, Hbo 2	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F365
+#EXTINF:-1, Hbo Plus	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F453
+#EXTINF:-1, Hbo Plus Hd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F369
+#EXTINF:-1, Hbo Signature	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F451
+#EXTINF:-1, Max	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F381
+#EXTINF:-1, Golden Premier 1	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1487
+#EXTINF:-1, Fox Este 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F433
+#EXTINF:-1, Fox Oeste 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F439
+#EXTINF:-1, Fox Action Este	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F435
+#EXTINF:-1, Fox Action Oeste	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F437
+#EXTINF:-1, Fox Movie	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F463
+#EXTINF:-1, Fox Cinema	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F457
+#EXTINF:-1, Fox Family	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F467
+#EXTINF:-1, Fox Classics	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F465
+#EXTINF:-1, Fox Comedy	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F461
+#EXTINF:-1, Paramount Channel Hd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F260
+#EXTINF:-1, Golden Hd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F264
+#EXTINF:-1, Golden Multiplex	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1035
+#EXTINF:-1, The Film Zone	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1055
+#EXTINF:-1, Amc	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F485
+#EXTINF:-1, Space	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2489
+#EXTINF:-1, Studio Universal 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F345
+#EXTINF:-1, Europa Europa	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1597
+#EXTINF:-1, I-Sat	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1703
+#EXTINF:-1, Sundance Channel	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1041
+#EXTINF:-1, Film & Arts	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1599
+#EXTINF:-1, CineCanal	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2495
+#EXTINF:-1, Cine Latino
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F477
+#EXTINF:-1, Cine Dinamita	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3465
+#EXTINF:-1, Planeta Futbol	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1477
+#EXTINF:-1, Univision TDN	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1483
+#EXTINF:-1, TDN	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1059
+#EXTINF:-1, BeinSport	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2527
+#EXTINF:-1, Ufc Network	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1047
+#EXTINF:-1, Espn	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2487
+#EXTINF:-1, Espn 2	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F301
+#EXTINF:-1, Espn 3	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3806
+#EXTINF:-1, Fox Sport	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2505
+#EXTINF:-1, Fox Sport 2	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F475
+#EXTINF:-1, Fox Sport 3	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F445
+#EXTINF:-1, CNN	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1855
+#EXTINF:-1, Tve America	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2123
+#EXTINF:-1, Ntn 24	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1601
+#EXTINF:-1, BloomBerg	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2823
+#EXTINF:-1, K Music	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3467
+#EXTINF:-1, Concert Channel	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F479
+#EXTINF:-1, Htv	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F341
+#EXTINF:-1, Bandamax	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1467
+#EXTINF:-1, Caracol Internacional	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2051
+#EXTINF:-1, Mtv	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2491
+#EXTINF:-1, Mtv Hits	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1495
+#EXTINF:-1, Vh1 Classic	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F415
+#EXTINF:-1, Vh1	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F483
+#EXTINF:-1, A24
+http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Anime Español	
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1, Music 1 Hd	
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
+#EXTINF:-1, Discovery En Español	
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Ibiza Music	
+http://www.djing.com/tv/ibiza.m3u8?
+#EXTINF:-1, Underground Music 
+http://www.djing.com/tv/underground.m3u8?
+#EXTINF:-1, History Channel	
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1, EuroSport	
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+#EXTINF:-1, Vevo Hits 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1, Vevo Flow Hd	
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1, Vevo Nashville Hd	
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1, Univision Hd	
+http://31.220.40.121:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=09ebd2b3d205c702703acc2c73bcaab0
+#EXTINF:-1, Kiss Tv	
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1, Tru Tv	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F337
+#EXTINF:-1, BBC Entertainment	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1407
+#EXTINF:-1, Universal Chanel 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F387
+#EXTINF:-1, Syfy	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F447
+#EXTINF:-1, Axn Hd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F258
+#EXTINF:-1, Gourmet	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1033
+#EXTINF:-1, Glitz	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1473
+#EXTINF:-1, Fox Life	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F425
+#EXTINF:-1, Distrito Comedia 
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1491
+#EXTINF:-1, Casa Club	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1475
+#EXTINF:-1, Pasiones	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F295
+#EXTINF:-1, Pasiones opcion 2
+
+http://31.220.40.121:80/LiveEdge/PasionesSD/playlist.m3u8?token=09ebd2b3d205c702703acc2c73bcaab0"
+#EXTINF:-1, RCN Novelas	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1493
+#EXTINF:-1, Azteca Internacional	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1999
+#EXTINF:-1, Telemundo Internacional	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F419
+
+#EXTINF:-1, Telemundo Internacional opcion 2
+http://31.220.40.121:80/LiveEdge/TelemundoSD/playlist.m3u8?token=09ebd2b3d205c702703acc2c73bcaab0"
+#EXTINF:-1, Discovery Kids	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F309
+#EXTINF:-1, Disney Juniors
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1455
+#EXTINF:-1, Nick Jr
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F417
+#EXTINF:-1, Disney Channel	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F256
+#EXTINF:-1, Nickelodeon	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1423
+#EXTINF:-1, Disney Xd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F499
+
+#EXTINF:-1, Disney Xd opcion 2 
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina"
+#EXTINF:-1, Discovery Theather Hd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3798
+#EXTINF:-1, History Chanel HD	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3704
+#EXTINF:-1, H2	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F297
+#EXTINF:-1, Animal Planet	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F441
+#EXTINF:-1, Discovery World Hd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3529
+#EXTINF:-1, Hbo Family	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F449
+#EXTINF:-1, Cinemax	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F343
+#EXTINF:-1, Max up
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F469
+#EXTINF:-1, Max Prime	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F377
+#EXTINF:-1, Max Prime Oeste
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F379
+#EXTINF:-1, Golden Premier 2	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1471
+#EXTINF:-1, Golden Edge	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1465
+#EXTINF:-1, Tmc	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F481
+#EXTINF:-1, Golf Channel	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1489
+#EXTINF:-1, Univision Hd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3800
+#EXTINF:-1, Unimax Hd	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3602
+#EXTINF:-1, C5N - Argentina
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1, Canal 12 - Argentina
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:-1, CANAL 13 - Argentina
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1, Canal Rural 1 - Argentina
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+
+#EXTINF:-1, Canal Rural 1.2 - Argentina
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
+
+#EXTINF:-1, Canal Rural 1.3 - Argentina
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural3"
+#EXTINF:-1, Canal 26 Hd	- Argentina	
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1, America Tv Hd - Argentina	
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+#EXTINF:-1, Telefe Hd - Argentina	
+http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
+#EXTINF:-1, Tele Publica Hd - Argentina	
+http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
+#EXTINF:-1, Canal Trece Hd - Argentina	
+http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
+#EXTINF:-1, Telefe - Argentina	
+http://live-edge01.telecentro.net.ar:1935/live/tlfhd-360/playlist.m3u8
+#EXTINF:-1, Q Musica - Argentina
+mms://streamqm.uigc.net/qmusica
+#EXTINF:-1, Vivra - Argentina	
+http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Quiero Musica - Argentina 	
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1, Redadvenir - Bolivia
+rtmp://streamer1.streamhost.org/salive/GMIalfam
+#EXTINF:-1, Basta Crer - Brasil 	
+rtmp://streamspub.manasat.com/live/bastacrer
+#EXTINF:-1, Mana Sat - Brasil 	
+rtmp://195.22.19.179/manasat/manasat2
+#EXTINF:-1, Rede Familia - Brasil 	
+rtsp://srv3.ntelecom.com.br/redefamilia
+#EXTINF:-1, Redes Mina -Brasil 	
+rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
+#EXTINF:-1, Savaoir - Canada	
+rtsp://stream2.canal.qc.ca/enOndes_haut_debit
+#EXTINF:-1, C9 BIO BIO TV CONCEPCION -Chile	
+http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
+#EXTINF:-1, El Pingüino Tv Canal 4 - Chile	
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/hasbahca.m3u8
+#EXTINF:-1, Camara de los Diputados  - Chile 	
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+#EXTINF:-1, Tv Patagonia - Chile 	
+http://69.164.193.177:1935/live/myStream/hasbahca.m3u8
+#EXTINF:-1, TV senado - Chile 	
+http://senadortmp.janus.cl/senadotv/senado600/hasbahca.m3u8
+#EXTINF:-1, Valle Television - Chile 	
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1, La Red - Chile 
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8
+#EXTINF:-1, Mega tv Hd - Chile 	
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:-1, Tvn Hd - Chile 	
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1, Tv Chile - Chile 	
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1, La Red Hd - Chile 	
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv/&amp
+#EXTINF:-1, Señal Colombia -Colombia	
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8?
+#EXTINF:-1, Canal Capital - Colombia	
+http://cdns840stu1010.multistream.net/canalcapitallive/live-500/playlist_b500000.m3u8?
+#EXTINF:-1, Señal Institucional -Colombia	
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
+#EXTINF:-1, Tele Caribe	- Colombia 
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1, Canal Tr3ce	- Colombia	
+http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
+#EXTINF:-1, Tv Polanco - Colombia	
+http://186.155.200.118:1935/live/ColombiasuMusica/playlist.m3u8
+#EXTINF:-1, Canal 6 - Costa Rica	
+rtmp://k3.usastreams.com:1935/cana6/cana6
+#EXTINF:-1, Canal 7 Teletica - Costa Rica	
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u8
+#EXTINF:-1, Canal 9 - Costa Rica	
+rtmp://k3.usastreams.com:1935/canal9/canal9
+#EXTINF:-1, Canal 13 - Costa Rica	
+rtmp://stream01.cyberfuel.com/SinartCanal13/livestream
+#EXTINF:-1, Canal 42 - Costa Rica	
+rtmp://k3.usastreams.com:1935/canal42/canal42
+#EXTINF:-1, Colosal Tv - Costa Rica
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1, Cb television Hd - Costa Rica	
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+#EXTINF:-1, Tele Uno Tv - Costa Rica	
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1, Xperts 33 Tv - Costa Rica	
+rtmp://k3.usastreams.com:1935/tv33/tv33
+#EXTINF:-1, Ucsghq - Cuba	
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+#EXTINF:-1, Canela Tv - Ecuador	
+http://38.96.148.216:1935/live/canelatv/playlist.m3u8
+#EXTINF:-1, Cañar - Ecuador	
+rtmp://ecuastreamhd.com:1935/canartv/canartv
+#EXTINF:-1, Sky News - England	
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:-1, BBC News - England	
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1, I24 News - England	
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1, Gold Tv Hd - England	
+http://87.248.160.8/edge/smil:goldtv/chunklist_w1939353338_b2100000.m3u8
+#EXTINF:-1, Extremadura TV - España
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:-1, 24 Horas opcion 1 - España	
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1, 24 Horas opcion 2 - España	
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_1.m3u8"
+#EXTINF:-1, Alfa Tv - España	
+rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
+#EXTINF:-1, Antena 3 Hd - España	
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1, IB3	- España	
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:-1, La Sexta Hd	- España	
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1, Sevilla- España	
+http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
+#EXTINF:-1, Stv Rioja -	España	
+mms://87.106.208.121/stv
+#EXTINF:-1, Telemadrid	- España	
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+#EXTINF:-1, Galicia Tv - España	
+http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+#EXTINF:-1, Vit Channel 1 - España	
+rtmp://87.106.244.74/live/myStream_2
+#EXTINF:-1, Vit Channel 2 - España	
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1, TeleCinco - España	
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1, ETB - España	
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+#EXTINF:-1, 13 Tv - España	
+http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:-1, Canal 10 - España	
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1, Canal Costa - España	
+http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
+#EXTINF:-1, Enlace Deportes 1 - España	
+http://universalhdlive.marca.com/i/dr21_1@100203/index_6_av-p.m3u8
+#EXTINF:-1, Huelva - España	
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+#EXTINF:-1, Informacion Tv - España	
+http://teledifusion.tv:1935/informaciontvlive/informaciontvlive/.m3u8
+#EXTINF:-1, Travel Tv - España	
+rtmp://87.106.219.140/live/myStream_2
+#EXTINF:-1, LaSexta HD - España	
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1, Ibiza Tv - España 	
+rtsp://46.249.213.87/broadcast/ibizaontv-tablet.3gp?trackingid=3041310000
+#EXTINF:-1, Tve 24 horas - España 	
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1, Vit Channel 3 - España 	
+rtmp://87.106.232.7/live/myStream_2
+#EXTINF:-1, Vit Channel 4 - España 	
+rtmp://87.106.220.67/live/myStream_2
+#EXTINF:-1, EuroNews - España 	
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1, Guatevision Tv - Guatemala 	
+http://bravo967.sysvirtuales.com/live/stream1.sdp/hasbahca.m3u8
+#EXTINF:-1, Telesistema - Honduras	
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:-1, Canal 5 El Lider - Honduras	
+http://162.212.176.83:8080/canal5.stream.m3u8
+#EXTINF:-1, Telecadena - Honduras	
+http://162.212.176.83:8080/telecadena.stream.m3u8
+#EXTINF:-1, Canal Ten Hd - Honduras	
+http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8?
+#EXTINF:-1, Canal 11 - Honduras	
+http://162.212.176.83:8080/campustv.stream.m3u8
+#EXTINF:-1, HCH	- Honduras	
+http://162.212.176.83:8080/hchtv.m3u8
+#EXTINF:-1, Globo Tv - Honduras	
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:-1, Canal 6 - Honduras	
+http://162.212.176.83:8080/canal6.stream.m3u8
+#EXTINF:-1, Maya Tv - Honduras	
+http://162.212.176.83:8080/mayatv.m3u8
+#EXTINF:-1, Teleceiba  - Honduras	
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1, TeleProgreso - Honduras	
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1, Todo Deportes - Honduras	
+http://162.212.176.83:8080/tododeportes.stream.m3u8
+#EXTINF:-1, Sulavision - Honduras	
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:-1, Canal 13 - Honduras	
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, Azteca Tv	
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1, Azteca Tv opcion 2
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Furtmpkal-amaihd.net%2Fi%2F077zoqxzy_1%40130091%2Findex_3_av-p.m3u8"
+#EXTINF:-1, Milenio Centro - Mexico	
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+#EXTINF:-1, Radio Y Television - Mexico	
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+#EXTINF:-1, TVMAS - Mexico	
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1, Once Tv - Mexico	
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=ffrt2+http%3A%2F%2Fwww.oncetvmexicolive.tv%3A1935%2Flivepkgr2%2Fsmil%3Aint.smil%2Fplaylist.m3u8
+
+#EXTINF:-1, Once Tv opcion 1 - Mexico
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8"
+#EXTINF:-1, Trece - Mexico	
+http://localhost:8899/live.m3u?tmp=0&portal=1&channel=http%3A%2F%2Faztecalive-lh.akamaihd.net%2Fi%2F0oxnvzh8a_1%40175671%2Findex_3_av-b.m3u8
+#EXTINF:-1, Gala Tv - Mexico	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1039
+#EXTINF:-1, Multimedios - Mexico	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1459
+#EXTINF:-1, Unicable - Mexico	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F3804
+#EXTINF:-1, Canal 2 - Mexico	
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
+#EXTINF:-1, Trece - Mexico
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1, Proyecto 40	- Mexico	
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
+#EXTINF:-1, Canal Mexico
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:-1, Foro Tv
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1, Televisa - Mexico	
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+#EXTINF:-1, Canal 2 Obregon - Mexico	
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+#EXTINF:-1, Canal 7 Maztlan - Mexico	
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1, Ocho Tv - Mexico	
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+#EXTINF:-1,  Ultracalientes Hd - Mexico	
+http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
+#EXTINF:-1, Wapa -Panama	
+rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer%2Ephp%3Fid%3D19967&autostart=true live=1 pageUrl=http://iblups.com/e_WapaPRace-498-310</link>
+#EXTINF:-1, Rpg - Panama	
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1, Rbc - Peru	
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+#EXTINF:-1, Rbc Canal 11 - Peru	
+rtmp://184.154.28.210:1935/rbcsatelital/rbcsatelital
+#EXTINF:-1, Total Willax - Peru	
+rtmp://willax.mediastream.pe/vv_willax playpath=livestream swfUrl=http://monitor.mediastream.pe/MStreamLive.swf?v=qtnjVOvh live=1 pageUrl=http://willax.tv/
+#EXTINF:-1, Tv Panamericana - Peru	
+http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+#EXTINF:-1, Sol Tv - Peru	
+rtmp://live.soltvperu.com/soltv/soltv
+#EXTINF:-1, Capital Tv -Peru	
+rtmp://rpplivefs.fplive.net/rpp02live-live playpath=streamCAPTV swfUrl=http://static.castalba.tv/player.swf live=1 pageUrl=http://tele-on.com/capitaltv.html
+#EXTINF:-1, Ucv Satelital -Peru	
+http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:-1, Tv Peru 
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
+#EXTINF:-1, CTNl - Puerto Rico	
+rtmp://ph1.ministeriotv.com:1936/48/ playpath=stream2 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 pageUrl=http://www.ministeriotv.com/embed/48/640/360/FALSE/true/false
+#EXTINF:-1, Teleantillas Canal 2 - R. Dominicana	
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
+#EXTINF:-1, Telefuturo Canal 23	- R. Dominicana	
+http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
+
+#EXTINF:-1, Telefuturo Canal 23 Opcion 2- R. Dominicana
+rtmp://ss7.domint.net:1950/tf_str/ playpath=futu swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=139 live=true"
+#EXTINF:-1, Telesistema Canal 11 - R. Dominicana	
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:-1, Telecentro - R.Dominicana	
+http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F2017
+#EXTINF:-1, Antena Latina Canal 7 - R.Dominicana	
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+#EXTINF:-1, Tele Universo Canal 29 - R.Dominicana	
+http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
+#EXTINF:-1, Teleradio America - R.Dominicana	
+http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
+#EXTINF:-1, CerTv - R.Dominicana	
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+#EXTINF:-1, Telenord - R.Dominicana	
+http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+#EXTINF:-1, Romana Tv - R.Dominicana	
+http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
+#EXTINF:-1, Vegateve - R.Dominicana	
+http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
+#EXTINF:-1, Musa Tv - R.Dominicana	
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
+#EXTINF:-1, Dominican York Hd - R.Dominicana	
+rtmp://stream.dominicanyork.tv:1935/dominicanyorktv/ playpath=DMYTV swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf pageUrl=http://emisoradominicana.net/html5/play/plya.php?id=129 live=true
+#EXTINF:-1, A-One Music Channel	- Rumania	
+http://msk1.peers.tv/streaming/aone/16/tvrec/playlist.m3u8
+#EXTINF:-1, Canal Once Punta Del Este - Uruguay	
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
+#EXTINF:-1, CNN English - Usa	
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1, ACB News Hd	- Usa	
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
+#EXTINF:-1, NBC News - Usa	
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:-1, Big 10 Network Hd - Usa	
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1, Sport Network 360 Hd - Usa	
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000_ipad.m3u8
+#EXTINF:-1, Sport Time 2 - Usa	
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1, Sport Time 3 - Usa	
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1, Sport Time 4 - Usa	
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1, Sport Time 5 - Usa	
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1, Sport Time - Usa 	
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:-1, Spor Time 6	- Usa 
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:-1, Fashion Tv - Usa 	
+rtmp://95.67.8.43:1935/live/fashionhd
+#EXTINF:-1, Telesur - Venezuela	
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
+#EXTINF:-1, Uni Mas Hd		
+http://31.220.40.121:80/LiveEdge/UniMasUS/playlist.m3u8?token=09ebd2b3d205c702703acc2c73bcaab0
